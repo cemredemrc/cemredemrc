@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Zeynep Cemre!
 - 👀 I’m interested in SCUBA DIVING
 - 🌱 I’m currently learning HTML and CSS
- ![Uploading 1236241741_dr._house_peephole.gif…]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 <!---
