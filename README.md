@@ -1,14 +1,13 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/2e785726-5639-46ef-b783-3c50b2721ec4raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+## - 👋 Hi, I’m Zeynep Cemre!
+- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in SCUBA DIVING  
+- 🥅 2025 Goals: Improving my English and progressing in the fluttering language  🤖
+- ⚡ Fun fact: HouseMD fan ✨ 
 
 
+![hello-chat-house-md](https://github.com/user-attachments/assets/2e785726-5639-46ef-b783-3c50b2721ec4)
 
 
 
