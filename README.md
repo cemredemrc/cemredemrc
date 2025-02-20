@@ -1,5 +1,5 @@
 ## - 👋 Hi, I’m Zeynep Cemre!
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning CSS and FLUTTER
 - 👀 I’m interested in SCUBA DIVING  
 - 🥅 2025 Goals: Improving my English and progressing in the fluttering language  🤖
 - ⚡ Fun fact: HouseMD fan ✨ 
