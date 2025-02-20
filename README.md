@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/2e785726-5639-46ef-b783-3c50b2721ec4raw=true" width="500" height="320" />
-
 ## - 👋 Hi, I’m Zeynep Cemre!
 - 🌱 I’m currently learning HTML and CSS
 - 👀 I’m interested in SCUBA DIVING  
